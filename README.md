@@ -13,7 +13,8 @@ Starting to learn JavaScript and React.<br>
 <a href="https://www.google.com.br/"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a><br> <br>
 
 ![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio86-Make)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio86-Make)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mauricio86-Make&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 <!--
 **Mauricio86-make/Mauricio86-Make** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
